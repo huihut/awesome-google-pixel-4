@@ -40,7 +40,8 @@ Google Pixel 4/4XL ROM、Recovery、Framework、APP、搞机笔记，以备茶�
 
 # Magisk
 
-[Magisk/releases](https://github.com/topjohnwu/Magisk/releases)
+* [Magisk/releases](https://github.com/topjohnwu/Magisk/releases)
+* [How to root the Google Pixel 4 or Pixel 4 XL with Magisk](https://www.xda-developers.com/google-pixel-4-root-magisk/)
 
 # Magisk 模块
 
